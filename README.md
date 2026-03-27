@@ -1,4 +1,19 @@
 # Penetration-Testing-Toolkit
+
+Task 3 :Penetration-Testing-Toolkit 
+
+company: Codtech IT Solutions Pvt.ltd
+
+Name: Mistry Urvi Rakeshkumar
+
+Domain: Cyber Security & Ethical Hacking
+
+Duration : 4 week
+
+Tools & Technology:-python programming language -Google Colab
+
+Intern ID : CTIS6997
+
 🧪 Task-3: Penetration Testing Toolkit
 
 📌 What is Penetration Testing?
